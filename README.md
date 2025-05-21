@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div>
-<h3><img align="left" width="300" src="Assets/start/chrome_TcyTG5ynAJ.png"> <br/> بلشة العيد
+<h3><img align="left" width="300" src="Assets/start/chrome_TcyTG5ynAJ.png"> <br/> <p align="left">بلشة العيد</p>
 </div>   
   
 [![Play on itch.io](https://img.shields.io/badge/Play%20on-itch.io-ff5c5c?logo=itch-io&logoColor=white)](https://wedad.itch.io/eid)
@@ -9,7 +9,9 @@
 </div>   
 
 <br/>
+
 <br/>
+
 <br/>
 
 ## Project Info
