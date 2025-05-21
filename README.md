@@ -1,11 +1,9 @@
 <!-- PROJECT LOGO -->
 <div>
-<h3><img align="left" width="300" src="Assets/start/chrome_TcyTG5ynAJ.png"> <br/> Battle Simulator
+<h3><img align="left" width="300" src="Assets/start/chrome_TcyTG5ynAJ.png"> <br/> بلشة العيد
 </div>   
   
-[![Game Overview](https://img.shields.io/badge/Game%20Overview-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=E1-fTTuxCIU)  
-[![How to create Lineups](https://img.shields.io/badge/How%20to%20create%20Lineups-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=WN8-BFGJ8NA)  
-[![Technical Documentation](https://img.shields.io/badge/Technical%20Documentation-PDF-blue?logo=adobeacrobatreader&logoColor=white)](Documentation/Battle%20Simulator-wedad.pdf)
+[![Play on itch.io](https://img.shields.io/badge/Play%20on-itch.io-ff5c5c?logo=itch-io&logoColor=white)](https://wedad.itch.io/eid)
 
 </h3>   
 </div>   
@@ -15,21 +13,21 @@
 <br/>
 
 ## Project Info
-**Role:** Solo Developer 
+**Role:** Game Programmer
+<br/>
+**Team Size:** 3
 <br/>
 **Duration:** 2 week
 <br/>
-**Tech:** Unity Ecs, C#  
+**Tech:** Unity, C#, DoTween 
 
 > [!NOTE]
 > **Installation GUIDE:**
 > <br/>
-> Unity Version: 6000.0.2f1
-> <br/>
-> ECS Version: 1.2.1
+> Unity Version: 2023.1.10f1
 
 
 ## Overview
-This strategy game was developed for my Steer Elite Internship application. Each match features a procedurally generated Red Team, challenging the player to build a countering Blue Team from a roster of units. Built with the ECS pattern, the game emphasizes modularity, scalability, and performance to meet modern development standards.
+I developed a fast-paced mobile web game with Gamifier, launched during Eid al-Fitr as a festive activity. The experience features a series of random, quick mini-games inspired by fun and relatable Eid situations, designed to keep players engaged and entertained. Each session 
 
 
