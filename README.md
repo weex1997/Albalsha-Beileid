@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div>
-<h3><img align="left" width="400" src="Assets/start/chrome_TcyTG5ynAJ.png"> <br/> Battle Simulator
+<h3><img align="left" width="300" src="Assets/start/chrome_TcyTG5ynAJ.png"> <br/> Battle Simulator
 </div>   
   
 [![Game Overview](https://img.shields.io/badge/Game%20Overview-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=E1-fTTuxCIU)  
