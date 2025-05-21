@@ -34,6 +34,6 @@
 
 
 ## Overview
-I developed a fast-paced mobile web game with Gamifier, launched during Eid al-Fitr as a festive activity. The experience features a series of random, quick mini-games inspired by fun and relatable Eid situations, designed to keep players engaged and entertained. Each session 
+I developed a fast-paced mobile web game with Gamifier, launched during Eid al-Fitr as a festive activity. The experience features a series of random, quick mini-games inspired by fun and relatable Eid situations, designed to keep players engaged and entertained. Each session offers a new surprise, making it perfect for celebrating the holiday with energy and joy.
 
 
